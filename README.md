@@ -335,6 +335,7 @@ Packing 4 channels of data into a texture (RGBA) is not recommended except for a
 | Float Curve             | Curve_     | _Float     |                                  |
 | Foliage Type            | FT_        |            |                                  |
 | Force Feedback Effect   | FFE_       |            |                                  |
+| Gameplay Ability        | GA_*Class*_|		    | Prefix should be based on class. |
 | Landscape Grass Type    | LG_        |            |                                  |
 | Landscape Layer         | LL_        |            |                                  |
 | Matinee Data            | Matinee_   |            |                                  |
